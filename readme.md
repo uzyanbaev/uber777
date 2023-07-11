@@ -4,4 +4,4 @@
 #### В проекте были использованы:
 * HTML | SASS | JS | BOOTSTRAP
 * Адаптивная верстка
-#### Посмотреть проект: uzyanbaev.github.io/uber777/
+#### Посмотреть проект: https://uzyanbaev.github.io/uber777/
